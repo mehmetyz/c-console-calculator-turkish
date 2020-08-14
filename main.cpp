@@ -532,7 +532,3 @@ int main()
     }
     return 0;
 }
-void bilimsel()
-{
-    cout<<"\t\t\t\t : BILIMSEL HESAPLAMA : "<<endl;   
-}
